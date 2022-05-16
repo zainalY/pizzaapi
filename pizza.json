@@ -1,6 +1,7 @@
 {
     "menu": [
         {
+            "id": 1,
             "kategori": "pizza",
             "nama": "Meat Lover",
             "deskripsi": "Irisan sosis sapi, daging sapi cincang, burger sapi, sosis ayam.",
@@ -8,6 +9,7 @@
             "gambar": "https://github.com/zainalY/dwa-hut/blob/main/pizza/meat-lover.jpg?raw=true"
         },
         {
+            "id": 2,
             "kategori": "pizza",
             "nama": "Super Supreme",
             "deskripsi": "Daging ayam dan sapi asap, daging sapi cincang, burger sapi, jamur, paprika merah dan paprika hijau.",
@@ -15,6 +17,7 @@
             "gambar": "https://github.com/zainalY/dwa-hut/blob/main/pizza/supreme.jpg?raw=true"
         },
         {
+            "id": 3,
             "kategori": "pizza",
             "nama": "Tuna Melt",
             "deskripsi": "Irisan daging ikan tuna, butiran jagung, saus mayonnaise.",
@@ -22,6 +25,7 @@
             "gambar": "https://github.com/zainalY/dwa-hut/blob/main/pizza/tuna-melt.jpg?raw=true"
         },
         {
+            "id": 4,
             "kategori": "pizza",
             "nama": "American Favourite",
             "deskripsi": "Pepperoni sapi, daging sapi cincang, jamur.",
@@ -29,6 +33,7 @@
             "gambar": "https://github.com/zainalY/dwa-hut/blob/main/pizza/american-favourite.jpg?raw=true"
         },
         {
+            "id": 5,
             "kategori": "pasta",
             "nama": "Beef Spaghetti arifin",
             "deskripsi": "Pepperoni sapi, daging sapi cincang, jamur.",
@@ -36,6 +41,7 @@
             "gambar": "https://github.com/zainalY/dwa-hut/blob/main/pizza/beef-spaghetti.jpg?raw=true"
         },
         {
+            "id": 6
             "kategori": "pasta",
             "nama": "Beef Lasagna",
             "deskripsi": "Dipanggang, daging sapi cincang. krim putih lembut di tiap lapisan.",
@@ -43,6 +49,7 @@
             "gambar": "https://github.com/zainalY/dwa-hut/blob/main/pizza/beef-lasagna.jpg?raw=true"
         },
         {
+            "id": 7
             "kategori": "pasta",
             "nama": "Creamy Beef Fettuccine",
             "deskripsi": "Daging sapi asap dan jamur, ditumis dengan saus krim lembut.",
@@ -50,6 +57,7 @@
             "gambar": "https://github.com/zainalY/dwa-hut/blob/main/pizza/creamy-beef-fettuccine.jpg?raw=true"
         },
         {
+            "id": 8
             "kategori": "nasi",
             "nama": "Meatballs Beef Mushroom",
             "deskripsi": "Bola daging sapi dengan saus daging sapi cincang dan jamur.",
@@ -57,6 +65,7 @@
             "gambar": "https://github.com/zainalY/dwa-hut/blob/main/pizza/meatballs-beef-mushroom.jpg?raw=true"
         },
         {
+            "id": 9
             "kategori": "nasi",
             "nama": "Black Pepper Chicken",
             "deskripsi": "Ayam dengan saus lada hitam.",
@@ -64,6 +73,7 @@
             "gambar": "https://github.com/zainalY/dwa-hut/blob/main/pizza/black-pepper-chicken.jpg?raw=true"
         },
         {
+            "id": 10
             "kategori": "nasi",
             "nama": "Oriental Chicken",
             "deskripsi": "Daging ayam berpadu dengan saus oriental.",
@@ -71,6 +81,7 @@
             "gambar": "https://github.com/zainalY/dwa-hut/blob/main/pizza/oriental-chicken.jpg?raw=true"
         },
         {
+            "id": 11
             "kategori": "minuman",
             "nama": "Choco Mint",
             "deskripsi": "",
@@ -78,6 +89,7 @@
             "gambar": "https://raw.githubusercontent.com/zainalY/dwa-hut/c60dfba4a8c6f6a78dcb72348da72e0181c0f545/pizza/sapiens%20(8).svg"
         },
         {
+            "id": 12
             "kategori": "minuman",
             "nama": "Toffee Coffee",
             "deskripsi": "",
@@ -85,6 +97,7 @@
             "gambar": "https://github.com/zainalY/dwa-hut/blob/main/pizza/toffee-coffee.jpg?raw=true"
         },
         {
+            "id": 13
             "kategori": "minuman",
             "nama": "Green Tea Shake",
             "deskripsi": "",
@@ -92,6 +105,7 @@
             "gambar": "https://github.com/zainalY/dwa-hut/blob/main/pizza/green-tea-shake.jpg?raw=true"
         },
         {
+            "id": 14
             "kategori": "minuman",
             "nama": "Strawberry Milkshake",
             "deskripsi": "",
@@ -99,6 +113,7 @@
             "gambar": "https://github.com/zainalY/dwa-hut/blob/main/pizza/strawberry-milkshake.jpg?raw=true"
         },
         {
+            "id": 15
             "kategori": "minuman",
             "nama": "Chocolate Milkshake",
             "deskripsi": "",
