@@ -6,7 +6,8 @@
             "nama": "Meat Lover",
             "deskripsi": "Irisan sosis sapi, daging sapi cincang, burger sapi, sosis ayam.",
             "harga": 49500,
-            "gambar": "https://github.com/zainalY/dwa-hut/blob/main/pizza/meat-lover.jpg?raw=true"
+            "gambar": "https://github.com/zainalY/dwa-hut/blob/main/pizza/meat-lover.jpg?raw=true",
+            "download": "https://drive.google.com/file/d/1eJwmXbJilhxXFSHKWne9JhE8tPdkdvym/view?usp=sharing"
         },
         {
             "id": 2,
@@ -14,7 +15,8 @@
             "nama": "Super Supreme",
             "deskripsi": "Daging ayam dan sapi asap, daging sapi cincang, burger sapi, jamur, paprika merah dan paprika hijau.",
             "harga": 49500,
-            "gambar": "https://github.com/zainalY/dwa-hut/blob/main/pizza/supreme.jpg?raw=true"
+            "gambar": "https://github.com/zainalY/dwa-hut/blob/main/pizza/supreme.jpg?raw=true",
+            "download": "https://drive.google.com/file/d/1eJwmXbJilhxXFSHKWne9JhE8tPdkdvym/view?usp=sharing"
         },
         {
             "id": 3,
@@ -22,7 +24,8 @@
             "nama": "Tuna Melt",
             "deskripsi": "Irisan daging ikan tuna, butiran jagung, saus mayonnaise.",
             "harga": 49500,
-            "gambar": "https://github.com/zainalY/dwa-hut/blob/main/pizza/tuna-melt.jpg?raw=true"
+            "gambar": "https://github.com/zainalY/dwa-hut/blob/main/pizza/tuna-melt.jpg?raw=true",
+            "download": "https://drive.google.com/file/d/1M4F_YgChzfiVo5MRkU5ix7GQOxwHD9Dk/view"
         },
         {
             "id": 4,
@@ -31,6 +34,7 @@
             "deskripsi": "Pepperoni sapi, daging sapi cincang, jamur.",
             "harga": 49500,
             "gambar": "https://github.com/zainalY/dwa-hut/blob/main/pizza/american-favourite.jpg?raw=true"
+            "download": "https://drive.google.com/file/d/1eJwmXbJilhxXFSHKWne9JhE8tPdkdvym/view?usp=sharing"
         },
         {
             "id": 5,
@@ -39,6 +43,7 @@
             "deskripsi": "Pepperoni sapi, daging sapi cincang, jamur.",
             "harga": 43000,
             "gambar": "https://github.com/zainalY/dwa-hut/blob/main/pizza/beef-spaghetti.jpg?raw=true"
+            "download": "https://drive.google.com/file/d/1eJwmXbJilhxXFSHKWne9JhE8tPdkdvym/view?usp=sharing"
         },
         {
             "id": 6,
@@ -47,6 +52,7 @@
             "deskripsi": "Dipanggang, daging sapi cincang. krim putih lembut di tiap lapisan.",
             "harga": 48000,
             "gambar": "https://github.com/zainalY/dwa-hut/blob/main/pizza/beef-lasagna.jpg?raw=true"
+            "download": "https://drive.google.com/file/d/1eJwmXbJilhxXFSHKWne9JhE8tPdkdvym/view?usp=sharing"
         },
         {
             "id": 7,
@@ -55,6 +61,7 @@
             "deskripsi": "Daging sapi asap dan jamur, ditumis dengan saus krim lembut.",
             "harga": 43000,
             "gambar": "https://github.com/zainalY/dwa-hut/blob/main/pizza/creamy-beef-fettuccine.jpg?raw=true"
+            "download": "https://drive.google.com/file/d/1eJwmXbJilhxXFSHKWne9JhE8tPdkdvym/view?usp=sharing"
         },
         {
             "id": 8,
@@ -63,6 +70,7 @@
             "deskripsi": "Bola daging sapi dengan saus daging sapi cincang dan jamur.",
             "harga": 40000,
             "gambar": "https://github.com/zainalY/dwa-hut/blob/main/pizza/meatballs-beef-mushroom.jpg?raw=true"
+            "download": "https://drive.google.com/file/d/1eJwmXbJilhxXFSHKWne9JhE8tPdkdvym/view?usp=sharing"
         },
         {
             "id": 9,
@@ -71,6 +79,7 @@
             "deskripsi": "Ayam dengan saus lada hitam.",
             "harga": 40000,
             "gambar": "https://github.com/zainalY/dwa-hut/blob/main/pizza/black-pepper-chicken.jpg?raw=true"
+            "download": "https://drive.google.com/file/d/1eJwmXbJilhxXFSHKWne9JhE8tPdkdvym/view?usp=sharing"
         },
         {
             "id": 10,
@@ -79,6 +88,7 @@
             "deskripsi": "Daging ayam berpadu dengan saus oriental.",
             "harga": 40000,
             "gambar": "https://github.com/zainalY/dwa-hut/blob/main/pizza/oriental-chicken.jpg?raw=true"
+            "download": "https://drive.google.com/file/d/1eJwmXbJilhxXFSHKWne9JhE8tPdkdvym/view?usp=sharing"
         },
         {
             "id": 11,
@@ -87,6 +97,7 @@
             "deskripsi": "",
             "harga": 24000,
             "gambar": "https://raw.githubusercontent.com/zainalY/dwa-hut/c60dfba4a8c6f6a78dcb72348da72e0181c0f545/pizza/sapiens%20(8).svg"
+            "download": "https://drive.google.com/file/d/1eJwmXbJilhxXFSHKWne9JhE8tPdkdvym/view?usp=sharing"
         },
         {
             "id": 12,
@@ -95,6 +106,7 @@
             "deskripsi": "",
             "harga": 24000,
             "gambar": "https://github.com/zainalY/dwa-hut/blob/main/pizza/toffee-coffee.jpg?raw=true"
+            "download": "https://drive.google.com/file/d/1eJwmXbJilhxXFSHKWne9JhE8tPdkdvym/view?usp=sharing"
         },
         {
             "id": 13,
@@ -103,6 +115,7 @@
             "deskripsi": "",
             "harga": 24000,
             "gambar": "https://github.com/zainalY/dwa-hut/blob/main/pizza/green-tea-shake.jpg?raw=true"
+            "download": "https://drive.google.com/file/d/1eJwmXbJilhxXFSHKWne9JhE8tPdkdvym/view?usp=sharing"
         },
         {
             "id": 14,
@@ -111,6 +124,7 @@
             "deskripsi": "",
             "harga": 24000,
             "gambar": "https://github.com/zainalY/dwa-hut/blob/main/pizza/strawberry-milkshake.jpg?raw=true"
+            "download": "https://drive.google.com/file/d/1eJwmXbJilhxXFSHKWne9JhE8tPdkdvym/view?usp=sharing"
         },
         {
             "id": 15,
@@ -119,6 +133,7 @@
             "deskripsi": "",
             "harga": 24000,
             "gambar": "https://github.com/zainalY/dwa-hut/blob/main/pizza/chocolate-milkshake.jpg?raw=true"
+            "download": "https://drive.google.com/file/d/1eJwmXbJilhxXFSHKWne9JhE8tPdkdvym/view?usp=sharing"
         }
     ]
 }
